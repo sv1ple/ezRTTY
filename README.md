@@ -5,6 +5,7 @@
 - Multiple Baud rates: 45.45, 50, 75
 - Mark/Space tones: 2125 / 2295Hz (170Hz frequency shift)
 - 1.5/2 stop bits
+- 7/8 bit ASCII
 
 ##Directories
 - /include: Header files
